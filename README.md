@@ -1,4 +1,8 @@
 ### Hi there 👋
+- I am currently working for IT Vizion as a Software Engineer Intern
+- My known coding languages and programs include Python, MATLAB, R, Siemens XHQ, Power BI, and Excel
+- 🌱 I am currently learning Seeq and MSSQL
+- 📫 How to reach me: sjspatacean@gmail.com
 
 <!--
 **SethSpatacean/SethSpatacean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
