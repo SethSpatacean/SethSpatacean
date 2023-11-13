@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I am currently working for IT Vizion as a Software Engineer Intern
-- My known coding languages and programs include Python, MATLAB, R, Siemens XHQ, Power BI, and Excel
-- 🌱 I am currently learning Seeq and MSSQL
+- I am currently working for Fluxergy as a Project Management Data Analyst
+- My known coding languages and programs include Python, MATLAB, R, SQL, Power BI, and Excel
+- 🌱 I am currently learning to use Tableu and Power Automate tools 
 - 📫 How to reach me: sjspatacean@gmail.com
 
 <!--
