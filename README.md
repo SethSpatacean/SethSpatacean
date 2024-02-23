@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I am currently working for Fluxergy as a Project Management Data Analyst
 - My known coding languages and programs include Python, MATLAB, R, SQL, Power BI, and Excel
-- 🌱 I am currently learning to use Tableu and Power Automate tools 
+- 🌱 I am currently learning various ML/AI tools and applications
 - 📫 How to reach me: sjspatacean@gmail.com
 
 <!--
