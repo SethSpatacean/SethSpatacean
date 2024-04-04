@@ -1,9 +1,4 @@
 ### Hi there 👋
-- I am currently working for Fluxergy as a Project Management Data Analyst
-- My known coding languages and programs include Python, MATLAB, R, SQL, Power BI, and Excel
-- 🌱 I am currently learning various ML/AI tools and applications
-- 📫 How to reach me: sjspatacean@gmail.com
-
 <!--
 **SethSpatacean/SethSpatacean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
